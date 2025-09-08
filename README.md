@@ -22,7 +22,7 @@ Env variables (`backend/.env`):
 
 ```
 PORT=4000
-JWT_SECRET=please_change_me
+JWT_SECRET=123456
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=rbac_db

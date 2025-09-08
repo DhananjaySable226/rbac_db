@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# Coverage / Testing
+coverage/
+*.lcov
+
+# Database files
+*.sqlite
+*.db
+*.sql
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Optional npm/yarn/pnpm cache
+.npm
+.yarn
+.pnpm
